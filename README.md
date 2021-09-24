@@ -1,5 +1,5 @@
 # MapVectorIntersect
-Program intersects the values from vector of ints and map with key strings and int values. 
+Program intersects the values from a vector of ints and a map with key strings and int values. 
 User is prompted to enter filename (If it wasn't provided in cmd arguments) with the values in the next format:
 [Number of vector elements] 
 [Vector elements: 1 2 3 4 5 6...]
